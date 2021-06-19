@@ -1,2 +1,2 @@
 # CSS-Basic
-Let's learn some basic CSS here!
+All about the basics use CSS for make HTML page more colorfull and responsive :)
